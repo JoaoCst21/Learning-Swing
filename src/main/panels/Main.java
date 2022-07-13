@@ -1,4 +1,4 @@
-package main;
+package main.panels;
 
 
 import javax.swing.JFrame;

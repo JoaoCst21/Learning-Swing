@@ -1,4 +1,4 @@
-package main;
+package main.panels_and_labels;
 
 import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
