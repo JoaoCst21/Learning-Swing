@@ -1,4 +1,4 @@
-package main.borderLayout;
+package main.borderlayout;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;

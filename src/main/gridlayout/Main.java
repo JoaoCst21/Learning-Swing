@@ -1,8 +1,7 @@
-package main.gridLayout;
+package main.gridlayout;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
-import java.awt.FlowLayout;
 import java.awt.GridLayout;
 
 public class Main {
